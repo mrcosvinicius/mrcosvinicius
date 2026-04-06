@@ -2,7 +2,7 @@
 
 **`Dev`**
 
-Sou um desenvolvedor de software com objetivo de gerar valor e evoluir profissionalmente. Meu foco é escrever código limpo, reutilizável e aprendizado contínuo, gosto de se comunicar e compartilhar ideias.
+Sou estudante de ads no centro universitário de joão pessoa(unipê) com objetivo de gerar valor e evoluir profissionalmente. Meu foco é escrever código limpo, reutilizável e aprendizado contínuo, gosto de se comunicar e compartilhar ideias.
 
 
 ---
