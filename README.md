@@ -2,7 +2,7 @@
 
 **`Dev`**
 
-Sou estudante do 3º periodo de ads no centro universitário de joão pessoa (unipê), com objetivo de gerar valor e evoluir profissionalmente. Meu foco é o desenvolvimento de software no backend escrevendo código limpo, reutilizável com o aprendizado contínuo, gosto de se comunicar e compartilhar ideias.
+Sou estudante do 4º periodo de ads no centro universitário de joão pessoa (unipê), com objetivo de gerar valor e evoluir profissionalmente. Meu foco é o desenvolvimento de software no backend escrevendo código limpo, reutilizável com o aprendizado contínuo, gosto de se comunicar e compartilhar ideias.
 
 
 ---
